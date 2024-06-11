@@ -3,7 +3,7 @@ Dados do aluno
 -Primeiro Nome: Alan Pereira Santos
 -Profissão: Estudante
 -Cidade: Wenceslau Guimarães/BA
--O que faz nas horas vaga: Social
+-O que faz nas horas vaga: Encontrar amigos
 -Feedback sobre o curso Qualidade de Software: Excelente
 -Feedback sobre a plataforma de estudo da EBAC: Muito bom
 
